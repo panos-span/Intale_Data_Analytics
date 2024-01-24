@@ -1,4 +1,5 @@
 # Intale_Data_Analytics
+
 7th semester, assignment B: Business Analytics and Personalization Technologies
 
 ## Contents
@@ -9,10 +10,10 @@
 - [Clustering based on price in stores and useful statistical checks](cluster_average_price_category.ipynb)
 - [Analysis for answering the first two questions provided by Intale about Dataset 1](data1analysis.ipynb)
 - [Analysis of the revenue for the stores in terms of several parameters](revenue_analysis_dataset1.ipynb)
-- [Consolidation of the knowledge from the clustering of prices performed in the notebook cluster_average_price_category.ipynb for the Revenue](specialized_clustering_df1.ipynb)
-- [Consolidation of the knowledge from the clustering of prices performed in the notebook cluster_average_price_category.ipynb for the Quantity](specialized_clustering_quantity_df1.ipynb)
-- [Time series analysis on the data of Dataset 1](time_series_analysis.ipynb)
+- [Consolidation of the knowledge from the clustering on prices in stores and from Dataset 1 for Revenue analysis](specialized_clustering_df1.ipynb)
+- [Consolidation of the knowledge from the clustering on prices in stores and from Dataset 1 for Quantity analysis](specialized_clustering_quantity_df1.ipynb)
+- [Time series analysis on the data of Dataset 1](time_series.ipynb)
 - [Analysis to answer the first two questions provided by Intale on Dataset 2, with extra analysis on the revenue](transaction_analysis_df2.ipynb)
 
-> Note: More information about the notebooks can be found in the [analysis file](ΑΡΧΕΙΟ%20ΑΝΑΛΥΣΗΣ.docx) 
+> Note: More information about the notebooks can be found in the [analysis file](ΑΡΧΕΙΟ%20ΑΝΑΛΥΣΗΣ.docx)
 > and more about the process of each analysis in each corresponding notebook.
